@@ -1,0 +1,19 @@
+{
+  "asdfgh": {
+    "name": "Widget",
+    "price": 12
+  },
+  "qwer5531": {
+    "name": "Cd Player",
+    "price": 59
+  },
+  "1b7422d0": {
+    "name": "Product 1",
+    "price": 89
+  },
+  "1883c00e": {
+    "name": "Teodor",
+    "price": 77,
+    "promoted": false
+  }
+}
