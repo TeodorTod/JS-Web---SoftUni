@@ -1,0 +1,37 @@
+body {
+    background-color: rgb(103, 117, 235);
+    width: 980 px;
+    margin: auto;
+}
+
+nav li {
+    list-style: none;
+    display: inline-block;
+}
+
+nav a {
+    text-decoration: none;
+    color: beige;
+    background-color: rgb(102, 184, 55);
+    font-size: 20px;
+    margin: 4px 8px;
+    padding: 4px 4px;
+}
+
+nav a:hover {
+    background-color: blueviolet;
+    transition: 1000ms;
+}
+
+.italics {
+    font-style: italic;
+}
+
+label {
+    display: block;
+}
+
+label span {
+    display: inline-block;
+    width: 75px;
+}
