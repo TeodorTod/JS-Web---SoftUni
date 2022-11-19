@@ -1,1 +1,0 @@
-All practical exercises and projects from ReactJS course in SoftUni
